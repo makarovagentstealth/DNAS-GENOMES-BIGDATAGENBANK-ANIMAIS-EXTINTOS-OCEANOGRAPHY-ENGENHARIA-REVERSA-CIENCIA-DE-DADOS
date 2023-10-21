@@ -1,0 +1,53 @@
+LOCUS       AF306569                 426 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Gallotia goliath cytochrome b (cytb) gene, partial cds;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AF306569
+VERSION     AF306569.1
+KEYWORDS    .
+SOURCE      mitochondrion Gallotia goliath (giant Canary Island lizard)
+  ORGANISM  Gallotia goliath
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Gallotia.
+REFERENCE   1  (bases 1 to 426)
+  AUTHORS   Rando,J.C., Maca-Meyer,N., Gonzalez,A.M., Larruga,J.M. and
+            Cabrera,V.M.
+  TITLE     The radiation of giant lizards (genus Gallotia) on the western
+            Canary Islands: An ancient DNA approach
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 426)
+  AUTHORS   Rando,J.C., Maca-Meyer,N., Gonzalez,A.M., Larruga,J.M. and
+            Cabrera,V.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-SEP-2000) Genetica, University of La Laguna,
+            Astrofisico Fco. Sanchez s/n, La Laguna, Tenerife E-38271, Spain
+FEATURES             Location/Qualifiers
+     source          1..426
+                     /organism="Gallotia goliath"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:166505"
+                     /country="Spain: Canary islands"
+                     /note="isolated from subfossil material"
+     gene            22..>426
+                     /gene="cytb"
+     CDS             22..>426
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAL09387.1"
+                     /translation="MSTNLRKQHPIIKIINSSFIDLPTPSNISAWWNFGSLLGLCLII
+                     QIVTGLFLAMHYNADINSAFSSIAHIHRDVQHGWLIRNIHANGASLFFICIYMHIGRG
+                     LYYGSYLFIETWNIGVLLLLLVMATAFMGYVLP"
+ORIGIN      
+        1 cttcaactat aaaaacagtc aatgtcaaca aacctgcgaa aacaacaccc cattatcaaa
+       61 atcattaact cctctttcat tgaccttcca accccatcaa acatctctgc ctgatgaaac
+      121 ttcggatcac ttctaggact ttgcctaatc atccaaatcg tcacaggact attcctggca
+      181 atacactaca acgcagacat caactccgca ttctcctcca tcgcccacat ccatcgtgac
+      241 gtccaacacg gctgactgat ccgaaatatc cacgccaacg gggcctcact attttttatc
+      301 tgcatctaca tgcacattgg acgcggccta tactacggct catacttatt tatcgaaact
+      361 tgaaatatcg gagtgcttct cctcctacta gtcatagcta cagccttcat aggctatgtc
+      421 cttcca
+//
+

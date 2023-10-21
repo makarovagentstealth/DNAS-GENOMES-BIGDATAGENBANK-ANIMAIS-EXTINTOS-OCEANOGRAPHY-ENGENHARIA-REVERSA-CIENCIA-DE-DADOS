@@ -1,0 +1,45 @@
+LOCUS       AF306568                 487 bp    DNA     linear   VRT 02-OCT-2001
+DEFINITION  Gallotia goliath 12S ribosomal RNA gene, partial sequence;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AF306568
+VERSION     AF306568.1
+KEYWORDS    .
+SOURCE      mitochondrion Gallotia goliath (giant Canary Island lizard)
+  ORGANISM  Gallotia goliath
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Laterata; Lacertibaenia; Lacertidae; Gallotia.
+REFERENCE   1  (bases 1 to 487)
+  AUTHORS   Rando,J.C., Maca-Meyer,N., Gonzalez,A.M., Larruga,J.M. and
+            Cabrera,V.M.
+  TITLE     The radiation of giant lizards (genus Gallotia) on the western
+            Canary Islands: An ancient DNA approach
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 487)
+  AUTHORS   Rando,J.C., Maca-Meyer,N., Gonzalez,A.M., Larruga,J.M. and
+            Cabrera,V.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-SEP-2000) Genetica, University of La Laguna,
+            Astrofisico Fco. Sanchez s/n, La Laguna, Tenerife E-38271, Spain
+FEATURES             Location/Qualifiers
+     source          1..487
+                     /organism="Gallotia goliath"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:166505"
+                     /country="Spain: Canary islands"
+                     /note="isolated from subfossil material"
+     rRNA            <1..>487
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 taggattaga taccctacta tgctaagcca taaacattga cagttataaa tacaatactt
+       61 tccgccagag aactacaagt gaaaaactta aaactcaaag gacttggcgg tgtcccatat
+      121 tcgacctaga ggagcctgtc ctataatcga tactccccgc tctaccttac cagcactagc
+      181 agactcagcc tatataccgc cgtcgacagc ttaccccctg agggtcaaac agtaagcata
+      241 atagtcctat cactaatacg tcaggtcaag gtgtagctaa tgtgctggca gagattggct
+      301 acatttttta tcttaaaaaa cacgaaatgc tacatgaaaa acagcatgaa ggcgaattta
+      361 gtagtaaaac aaacaagaga gtctgtttta acaacgctct gggacgcgta cacaccgccc
+      421 gtcaccctcc tcaacaacaa taaaaaaatc cataaacaac cacaccatta aaacagatga
+      481 ggtaagt
+//
+
