@@ -1,0 +1,52 @@
+LOCUS       LC064093                 598 bp    DNA     linear   MAM 13-JAN-2016
+DEFINITION  Canis lupus hodophilax mitochondrial DNA, D-loop, partial sequence,
+            note: JW269.
+ACCESSION   LC064093
+VERSION     LC064093.1
+KEYWORDS    .
+SOURCE      mitochondrion Canis lupus hodophilax (Japanese wolf)
+  ORGANISM  Canis lupus hodophilax
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Canidae;
+            Canis.
+REFERENCE   1
+  AUTHORS   Inoshima,Y.
+  TITLE     Japanese wolves are genetically divided to two groups by
+            8-nucleotides deletion on mtDNA control region
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Ishiguro,N.
+  TITLE     Japanese wolves are genetically divided to two groups by
+            8-nucleotides deletion on mtDNA control region
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 598)
+  AUTHORS   Ishiguro,N. and Inoshima,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2015) Contact:Naotaka Ishiguro Gifu University,
+            Veterinary Medicine; 1-1 Yanagido, Gifu, Gifu 501-1193, Japan URL
+            :http://www.gifu-u.ac.jp Phone :81-58-293-2864 Fax :81-58-293-2864
+FEATURES             Location/Qualifiers
+     source          1..598
+                     /organism="Canis lupus hodophilax"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="hodophilax"
+                     /db_xref="taxon:188536"
+                     /tissue_type="bone"
+                     /country="Japan"
+                     /note="JW269"
+     D-loop          <1..>598
+                     /note="control region"
+ORIGIN      
+        1 acacccctac attcatatat tgaatcaccc ctgctgtgct atgtcagtat ctccaggtaa
+       61 accctcctcc cctcccccta tgtacgtcgt gcattaatgg tttgccccat gcatataagc
+      121 atgtacataa tattatatcc ttacatagga catactaact caatctcata gctcactgat
+      181 ctatcaacag taatcgaatg catatcactt agtccaataa gggcttaatc accatgcctc
+      241 gagaaaccat caacccttgc tcgtaatgtc cctcttctcg ctccgggccc atactaacgt
+      301 gggggttact atcatgaaac tatacctggc atctggttct tacctcaggg ccataacttt
+      361 atttactcca atcctactaa ttcttgcaaa tgggacatct cgatggacta atgactaatc
+      421 agcccatgat cacacataac tgtggtgtca tgcatctggt atcttttaat ttttgggggg
+      481 gaatctgcta tcactcacct acgaccgcaa cggcactaac tctaacttat cttctgctct
+      541 cagggaatat gcccgtcgcg gccctaatgc agtcaaataa cttgtagctg gacttatt
+//
+

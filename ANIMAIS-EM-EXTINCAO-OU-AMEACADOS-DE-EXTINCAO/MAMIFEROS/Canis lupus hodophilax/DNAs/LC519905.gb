@@ -1,0 +1,39 @@
+LOCUS       LC519905                 223 bp    DNA     linear   MAM 25-JAN-2020
+DEFINITION  Canis lupus hodophilax Berlin22326 mitochondrial DNA, D-loop,
+            partial sequence.
+ACCESSION   LC519905
+VERSION     LC519905.1
+KEYWORDS    .
+SOURCE      mitochondrion Canis lupus hodophilax (Japanese wolf)
+  ORGANISM  Canis lupus hodophilax
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Canidae;
+            Canis.
+REFERENCE   1
+  AUTHORS   Matsumura,S., Terai,Y., Hongo,H. and Ishiguro,N.
+  TITLE     Analysis of the mitochondrial genome of Japanese wolf specimens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 223)
+  AUTHORS   Matsumura,S., Terai,Y., Hongo,H. and Ishiguro,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2020) Contact:Shuichi Matsumura Gifu University,
+            Faculty of Applied Biological Science; Yanagido 1-1, Gifu, Gifu
+            501-1193, Japan
+FEATURES             Location/Qualifiers
+     source          1..223
+                     /organism="Canis lupus hodophilax"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Berlin22326"
+                     /sub_species="hodophilax"
+                     /db_xref="taxon:188536"
+                     /country="Japan"
+     D-loop          <1..>223
+                     /note="control region"
+ORIGIN      
+        1 acacccctac attcatatat tgaatcaccc ctgctgtgct atgtcagtat ctccaggtaa
+       61 accctcctcc cctcccccta tgtacgtcgt gcattaatgg tttgccccat gcatataagc
+      121 atgtacataa tattatatcc ttacatagga catactaact caatctcata gctcactgat
+      181 ctatcaacag taatcaaatg catatcactt agtccaataa ggg
+//
+
