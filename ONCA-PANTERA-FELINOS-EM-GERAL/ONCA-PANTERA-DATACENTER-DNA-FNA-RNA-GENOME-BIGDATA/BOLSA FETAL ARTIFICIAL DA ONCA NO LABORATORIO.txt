@@ -1,0 +1,351 @@
+Relatório: Desenvolvimento de uma Bolsa Fetal Artificial Utilizando o Genoma Específico de um Felino Jaguar
+
+1. Sequenciamento Genômico:
+   - O primeiro passo essencial é obter o genoma completo do felino jaguar. Isso envolve o sequenciamento de DNA de alta qualidade para identificar todos os genes e regiões não codificantes.
+
+2. Análise Bioinformática:
+   - Após o sequenciamento, é crucial realizar uma análise bioinformática para identificar os genes relacionados ao desenvolvimento fetal, como aqueles envolvidos na formação da placenta, do sistema nervoso central e outros órgãos vitais.
+
+3. Engenharia de Tecidos e Biomateriais:
+   - Com base na análise genômica, é necessário desenvolver um ambiente biomimético que simule as condições ideais para o desenvolvimento fetal. Isso pode envolver o uso de biomateriais específicos e técnicas de engenharia de tecidos para criar uma bolsa fetal artificial.
+
+4. Cultura Celular e Biologia Molecular:
+   - Para testar a eficácia da bolsa fetal artificial, é necessário cultivar células fetais do jaguar em condições controladas, monitorando seu crescimento, diferenciação e função ao longo do tempo. Isso requer habilidades em cultura celular e técnicas de biologia molecular.
+
+5. Avaliação de Viabilidade e Desenvolvimento Fetal:
+   - Por fim, é essencial realizar testes rigorosos para avaliar a viabilidade e o desenvolvimento fetal dentro da bolsa artificial. Isso pode incluir monitoramento de parâmetros fisiológicos, como taxa de crescimento, função dos órgãos e desenvolvimento neural.
+
+Exemplo Prático:
+- Utilizando o genoma específico do felino jaguar, identificamos genes relacionados ao desenvolvimento fetal, como Pax6 para o desenvolvimento ocular. Com base nesses dados, desenvolvemos uma bolsa fetal artificial usando biomateriais que mimetizam o ambiente uterino. Cultivamos células fetais do jaguar nessa bolsa e observamos seu crescimento e diferenciação ao longo do tempo. Os testes mostraram um desenvolvimento fetal viável e saudável, indicando o potencial dessa tecnologia para auxiliar na preservação de espécies ameaçadas.
+
+**Relatório: Desenvolvimento de um Ambiente Biomimético para Simulação das Condições Ideais de Desenvolvimento Fetal com Ênfase no Jaguar**
+
+*Data: 02 de fevereiro de 2024*
+
+---
+
+**Introdução**
+
+A análise genômica tem revelado informações cruciais sobre os processos biológicos envolvidos no desenvolvimento fetal de várias espécies, incluindo o jaguar (*Panthera onca*). Com base nesses dados, propomos a criação de um ambiente biomimético para simular as condições ideais de desenvolvimento fetal do jaguar. Este relatório explora o uso de biomateriais específicos e técnicas de engenharia de tecidos, com foco na aplicação de biomateriais encontrados em cavernas, rios e florestas densas, bem como na exploração de artefatos nativos desses ambientes.
+
+**Biomateriais Específicos**
+
+1. **Calcita Subterrânea:** A calcita é um mineral comum em cavernas e pode ser encontrada em formações como estalactites e estalagmites. Sua superfície porosa e bioativa pode ser usada na formulação de biomateriais para revestimento de estruturas internas da bolsa fetal artificial do jaguar, simulando o ambiente mineralizado do útero.
+
+2. **Sílica Biogênica de Diatomáceas:** Diatomáceas são microalgas encontradas em ambientes aquáticos, como rios e lagos, e suas cascas são compostas principalmente de sílica. A sílica biogênica derivada dessas diatomáceas pode ser aplicada na fabricação de membranas permeáveis para a bolsa fetal artificial, reproduzindo as trocas gasosas e nutricionais do ambiente intrauterino.
+
+3. **Linho Selvagem:** O linho selvagem é uma fibra natural encontrada em florestas densas, conhecido por sua resistência e flexibilidade. Pode ser utilizado na fabricação de estruturas de suporte dentro da bolsa fetal artificial do jaguar, proporcionando um ambiente seguro e robusto para o desenvolvimento fetal.
+
+**Técnicas de Engenharia de Tecidos**
+
+1. **Impressão 3D:** A impressão 3D pode ser empregada para criar estruturas tridimensionais personalizadas dentro da bolsa fetal artificial, utilizando biomateriais específicos como a calcita subterrânea e o linho selvagem. Isso permite a adaptação às necessidades específicas do desenvolvimento fetal do jaguar.
+
+2. **Bioimpressão de Tecidos:** A bioimpressão é uma técnica avançada que combina células vivas e biomateriais para criar tecidos funcionais. Pode ser utilizada para imprimir tecidos específicos do jaguar, como músculos e ossos, dentro da bolsa fetal artificial, promovendo um ambiente mais próximo do útero materno.
+
+3. **Revestimentos Biomiméticos:** Revestimentos biomiméticos podem ser aplicados nas superfícies internas da bolsa fetal artificial para mimetizar as propriedades dos tecidos biológicos do jaguar, promovendo interações favoráveis entre as células fetais e o ambiente circundante.
+
+**Exploração de Artefatos Nativos**
+
+1. **Biofilmes de Caverna:** Biofilmes naturais encontrados em cavernas podem ser coletados e incorporados à bolsa fetal artificial do jaguar, proporcionando um substrato biológico autóctone para promover interações benéficas entre microorganismos e células fetais.
+
+2. **Raízes Aéreas de Floresta:** Raízes aéreas de árvores encontradas em florestas densas podem ser utilizadas na estruturação da bolsa fetal artificial, fornecendo um ambiente tridimensional semelhante ao encontrado no ambiente natural do jaguar.
+
+---
+
+**Conclusão**
+
+A criação de um ambiente biomimético para simular as condições ideais de desenvolvimento fetal do jaguar requer uma abordagem multidisciplinar que integre conhecimentos de genômica, biomateriais e engenharia de tecidos. A aplicação de biomateriais específicos encontrados em cavernas, rios e florestas densas, juntamente com técnicas avançadas de engenharia de tecidos e a exploração de artefatos nativos desses ambientes, oferece oportunidades significativas para avançar na compreensão e promoção do desenvolvimento fetal dessa espécie ameaçada.
+
+---
+
+Este relatório serve como uma análise inicial e requer uma investigação mais aprofundada para avaliar a viabilidade e a eficácia das abordagens propostas.
+
+Assinado,
+
+[nickname: Lester Smith Kardevsky CEO DARKSTRIKE APT EVIL CORP]
+[DARKSTRIKE APT EVIL CORP]
+
+Para criar um código de script focado em bioinformática para a calibração do genoma da onça (*Panthera onca*) com outros dados de desenvolvimento, podemos usar a linguagem Python e algumas bibliotecas específicas de bioinformática, como Biopython e pandas. O seguinte é um exemplo de script que pode ser utilizado para essa finalidade:
+
+```python
+import pandas as pd
+from Bio import SeqIO
+from Bio.Seq import Seq
+from Bio.SeqRecord import SeqRecord
+from Bio.Alphabet import generic_dna
+
+# Leitura dos dados de desenvolvimento da onça
+desenvolvimento_onca = pd.read_csv('dados_desenvolvimento_onca.csv')
+
+# Leitura do genoma da onça
+with open('genoma_onca.fasta', 'r') as fasta_file:
+    records = list(SeqIO.parse(fasta_file, 'fasta'))
+    genoma_onca = records[0].seq
+
+# Calibração do genoma com os dados de desenvolvimento
+for index, row in desenvolvimento_onca.iterrows():
+    gene = row['gene']
+    regiao_inicial = row['regiao_inicial']
+    regiao_final = row['regiao_final']
+    sequencia_gene = genoma_onca[regiao_inicial-1:regiao_final]
+    # Realizar alguma análise ou processamento adicional aqui, se necessário
+    # Por exemplo, alinhamento com outros genomas ou análise de conservação
+
+    # Criar um registro SeqRecord para o gene
+    seq_record = SeqRecord(sequencia_gene, id=gene, description='Gene {} da onça'.format(gene))
+    # Salvar o gene como um arquivo FASTA
+    SeqIO.write(seq_record, 'gene_{}.fasta'.format(gene), 'fasta')
+
+print("Calibração concluída. Arquivos FASTA para cada gene foram salvos.")
+```
+
+Neste exemplo, o script assume que os dados de desenvolvimento da onça estão armazenados em um arquivo CSV chamado 'dados_desenvolvimento_onca.csv', com colunas para o nome do gene, região inicial e região final no genoma. Além disso, presume-se que o genoma da onça esteja disponível em um arquivo FASTA chamado 'genoma_onca.fasta'.
+
+O script lê os dados de desenvolvimento e o genoma da onça, e em seguida, calibra o genoma com base nessas informações. Para cada gene, ele extrai a sequência correspondente do genoma, realiza qualquer análise adicional desejada (por exemplo, alinhamento com outros genomas ou análise de conservação) e salva a sequência como um arquivo FASTA separado para cada gene.
+
+É importante ressaltar que este é um exemplo simplificado e que o processamento real pode variar dependendo dos detalhes específicos dos dados de desenvolvimento e do genoma da onça, bem como das análises adicionais que podem ser necessárias. Além disso, este script pode ser expandido ou modificado conforme necessário para atender aos requisitos específicos do projeto de bioinformática em questão.
+
+___________________________________________________________________###______________________________________________________________________________
+
+Report: Development of an Artificial Fetal Bag Using Specific Genoma of a Felino Jaguar1. Sequenciamento Genômico:
+   - The first essential step is to obtain the complete genoma of the feline jaguar. That involves the sequenciamento of DNA of high quality to identify all of the genes and areas no codificantes.
+
+2. Analysis Bioinformática:
+   - After the sequenciamento, it is crucial to accomplish an analysis bioinformática to identify the genes related to the fetal development, as those involved in the formation of the placenta, of the central nervous system and other vital organs.
+
+3. Engineering of Fabrics and Biomateriais:
+   - With base in the analysis genômica, it is necessary to develop an atmosphere biomimético that simulates the ideal conditions for the fetal development. That can involve the use of specific and technical biomateriais of engineering of fabrics to create an artificial fetal bag.
+
+4. Cellular culture and Molecular Biology:
+   - To test the effectiveness of the artificial fetal bag, it is necessary to cultivate fetal cells of the jaguar in controlled conditions, monitoring his/her growth, differentiation and function along the time. That requests abilities in cellular culture and techniques of molecular biology.
+
+5. Evaluation of Viability and Fetal Development:
+   - Finally, it is essential to accomplish rigorous tests inside to evaluate the viability and the fetal development of the artificial bag. That can include monitoramento of physiologic parameters, as growth tax, function of the organs and development neural.
+
+Practical example:
+- Using the specific genoma of the feline jaguar, we identified genes related to the fetal development, like Pax6 for the ocular development. With base in those data, we developed an artificial fetal bag using biomateriais that mimetizam the uterine atmosphere. We cultivated fetal cells of the jaguar in that bag and we observed his/her growth and differentiation along the time. The tests showed a viable and healthy fetal development, indicating the potential of that technology to aid in the preservation of threatened species.
+
+**Report: Development of an Ambiente Biomimético for Simulation of the Ideal Conditions of Fetal Development with Emphasis in the Jaguar**
+
+*Date: February 02, 2024*
+
+---
+
+**Introduction**
+
+The analysis genômica has been revealing crucial information on the biological processes involved in the fetal development of several species, including the jaguar (* Panthera ounce *). With base in those data, we propose the creation of an atmosphere biomimético to simulate the ideal conditions of fetal development of the jaguar. This report explores the use of specific and technical biomateriais of engineering of fabrics, with focus in the biomateriais application found at caves, rivers and dense forests, as well as in the exploration of native workmanships of those atmospheres.
+
+**Specific Biomateriais * *1. * * Underground Calcita: * * the calcita is a common mineral in caves and it can be found in formations as stalactites and stalagmites. His/her porous surface and bioativa can be used in the biomateriais formulation for covering of internal structures of the artificial fetal bag of the jaguar, simulating the mineralized atmosphere of the uterus.
+
+2. * * Sílica Biogênica of Diatomáceas: * * Diatomáceas are microalgas found in aquatic atmospheres, as rivers and lakes, and their peels are composed mainly of sílica. The sílica derived biogênica of those diatomáceas can be applied in the production of permeable membranes for the artificial fetal bag, reproducing the gaseous and nutritional changes of the atmosphere intrauterino.
+
+3. * * Wild linen: * * THE wild linen is a natural fiber found at dense forests, known by his/her resistance and flexibility. It can be used in the production of support structures inside of the artificial fetal bag of the jaguar, providing a safe and robust atmosphere for the fetal development.
+
+**Techniques of Engineering of Fabrics * *1. * * Impression 3D: * * the impression 3D can be used to create three-dimensional structures personalized inside of the artificial fetal bag, using specific biomateriais as the underground calcita and the wild linen. That allows the adaptation to the specific needs of the fetal development of the jaguar.
+
+2. * * Bioimpressão of Fabrics: * * the bioimpressão is an advanced technique that combines alive cells and biomateriais to create woven functional. It can be used to print woven specific of the jaguar, as muscles and bones, inside of the artificial fetal bag, promoting a closer atmosphere of the maternal uterus.
+
+3. * * Coverings Biomiméticos: * * Coverings biomiméticos can be applied in the internal surfaces of the artificial fetal bag for mimetizar the properties of the biological fabrics of the jaguar, promoting favorable interactions between the fetal cells and the surrounding atmosphere.
+
+**Exploration of Native Workmanships * *1. * * Biofilmes of Cave: * * natural Biofilmes found at caves can be collected and incorporate to the artificial fetal bag of the jaguar, providing an autochthonous biological substratum to promote beneficial interactions between microorganisms and fetal cells.
+
+2. * * Aerial roots of Forest: * * aerial Roots of trees found at dense forests can be used in the structuring of the artificial fetal bag, supplying a three-dimensional atmosphere similar to the found in the natural atmosphere of the jaguar.
+
+---
+
+**Conclusion**
+
+The creation of an atmosphere biomimético to simulate the ideal conditions of fetal development of the jaguar requests an approach multidisciplinar to integrate genômica knowledge, biomateriais and engineering of fabrics. The application of specific biomateriais found at caves, rivers and dense forests, together with advanced techniques of engineering of fabrics and the exploration of native workmanships of those atmospheres, he/she offers significant opportunities to move forward in the understanding and promotion of the fetal development of that threatened species.
+
+---
+
+This report serves as an initial analysis and it requests an investigation more deepened to evaluate the viability and the effectiveness of the proposed approaches.
+
+Signed,
+
+[nickname: Lester Smith Kardevsky CEO DARKSTRIKE APT EVIL CORP]
+[DARKSTRIKE APT EVIL CORP]
+
+To create a script code focused in bioinformática for the calibration of the genoma of the ounce (* Panthera ounce *) with other development data, we can use the language Python and some specific libraries of bioinformática, as Biopython and pandas. The following is a script example that can be used for that purpose:
+
+```python
+import pandas the pd
+from Bio import SeqIO
+from Bio.Seq import Seq
+from Bio.SeqRecord import SeqRecord
+from Bio.Alphabet import generic_dna
+
+# Reading of the data of development of the ounce
+desenvolvimento_onca = pd.read_csv ('dados_desenvolvimento_onca.csv')
+
+# Reading of the genoma of the ounce
+with open ('genoma_onca.fasta', 'r') the fasta_file:
+    records = list (SeqIO.parse (fasta_file, 'fasta'))
+    genoma_onca = records [0].seq
+
+# Calibration of the genoma with the development data
+it goes index, row in desenvolvimento_onca.iterrows():
+    gene = row ['gene']
+    regiao_inicial = row ['regiao_inicial']
+    regiao_final = row ['regiao_final']
+    sequencia_gene = genoma_onca [regiao_inicial -1:regiao_final]
+    # To accomplish some here analysis or additional processing, if necessary
+    # For instance, alignment with other genomas or conservation analysis
+
+    # To create a registration SeqRecord for the gene
+    seq_record = SeqRecord (sequencia_gene, id=gene, description='Gene {} of the ounce.'format (gene))
+    # To save the gene as a file FASTA
+    SeqIO.write (seq_record, 'gene_ {}.fasta.'format (gene), 'fasta')
+
+print (concluded "Calibration. Files FASTA for each gene were saved.")
+```
+
+In this example, the script assumes that the data of development of the ounce are stored in a file called CSV 'dados_desenvolvimento_onca.csv', with columns for the name of the gene, initial area and final area in the genoma. Besides, he/she presumes her that the genoma of the ounce is available in a file called FASTA 'genoma_onca.fasta.'
+
+The script reads the development data and the genoma of the ounce, and soon afterwards, it gages the genoma with base in those information. For each gene, he extracts the sequence corresponding of the genoma, it accomplishes any wanted (for instance, alignment with other genomas or conservation analysis) additional analysis and sage the sequence as a file separate FASTA for each gene.
+
+It is important to emphasize that this is a simplified example and that the real processing can vary depending on the specific details of the development data and of the genoma of the ounce, as well as of the additional analyses that can be necessary. Besides, this script can be expanded or modified accordingly necessary to assist to the specific requirements of the bioinformática project in subject.
+
+___________________________________________________________________###______________________________________________________________________________
+
+Отчет: Развитие Искусственного Fetal Мешка Использование Специфического Genoma Felino Jaguar
+
+1. Sequenciamento Genфmico:
+   - Первый существенный шаг должен получить полный genoma feline jaguar. Который включает sequenciamento DNA высокого качества отождествить все из genes и областей нет codificantes.
+
+
+
+2. Анализ Bioinformбtica:
+   - После sequenciamento, этого решающий завершить анализ bioinformбtica чтобы отождествить genes относилось к fetal развитие, как то включенное в формировании placenta, центральной нервной системы и других важных органов.
+
+
+
+3. Техника Тканей и Biomateriais:
+   - С основой в анализе genфmica, необходимо чтобы разработать атмосферу biomimйtico что моделирует идеальные условия для fetal развитие. Который может включить использование специфического и техническое biomateriais техники тканей создать искусственный fetal мешок.
+
+
+
+4. Ячеистая культура и Молекулярная Биология:
+   - Чтобы испытать эффективность искусственного fetal мешка, необходимо к cultivate fetal ячейкам jaguar в контролируемых условиях, мониторинге его/ее увеличение, дифференциация и функция вдоль времени. Который просит способности в ячеистой культуре и технологиях молекулярной биологии.
+
+
+
+5. Оценка Жизнеспособности и Fetal Развитие:
+   - Наконец, это существенное завершить строгие испытания внутренние оценить жизнеспособность и fetal развитие искусственного мешка. Который может включить monitoramento physiologic параметров, как увеличение налог, функция органов и развития нервного.
+
+Практический пример:
+- Использование специфическое genoma feline jaguar, мы отождествили genes относились к fetal развитие, понравимся Pax6 для ocular развития. С основой в тех данных, мы разработали искусственный fetal мешок использование biomateriais что mimetizam uterine атмосфера. Мы cultivated fetal ячейки jaguar в том мешке и мы заметили его/ее увеличение и дифференциация вдоль времени. Испытания показали жизнеспособный и здоровый fetal развитие, указывая потенциал той технологии помочь в консервации угрожало species.
+
+**Отчет: Развитие Ambiente Biomimйtico для Моделирования Идеальных Условий Fetal Развитие с Ударением в Jaguar**
+
+*Дата: Февраль 02, 2024*
+
+---
+
+**Введение**
+
+Анализ genфmica обнаруживал решающую информацию о биологических процессах включенных в fetal развитие несколько species, в том числе jaguar (Panthera унция *). С основой в тех данных, мы предлагаем создание атмосферы biomimйtico чтобы моделировать идеальные условия fetal развитие jaguar. Этот отчет исследует использование специфического и техническое biomateriais техники тканей, с фокусом в biomateriais применении найденном при закусочных, реках и плотных лесах, а также в изыскании родных качеств изготовления тех атмосфер.
+
+**Специфический Biomateriais
+
+1. Подземный Calcita: calcita общий минерал в закусочных и этом может обнаружен в формированиях как stalactites и stalagmites. Его/ее пористая поверхность и bioativa сможет использована в biomateriais формулировке для того, чтобы покрывать внутренних структур искусственного fetal мешка jaguar, моделир mineralized атмосфера uterus.
+
+
+
+2. Sнlica Biogкnica Diatomбceas: Diatomбceas microalgas найденный в водных атмосферах, как реки и озера, и их peels составляются премущественно sнlica. sнlica полученный biogкnica тех diatomбceas может быть применен в производстве permeable мембран для искусственного fetal мешка, воспроизводя газообразные и nutritional изменения атмосферы intrauterino.
+
+
+
+3. Дикое белье: дикое белье естественный fiber найденный при плотных лесах, знало его/ее сопротивление и гибкость. Это может быть использовано в производстве поддерживают структуры в пределах искусственного fetal мешка jaguar, обеспечения сейф и крепкая атмосфера для fetal развитие.
+
+**Технологии Техники Тканей
+
+1. Впечатление 3d: впечатление 3d может быть обычно создавало трехмерные структуры персонализированные в пределах искусственного fetal мешка, использование специфического biomateriais как подземный calcita и дикое белье. Который позволяет адаптацию к специфическим потребностям fetal развитие jaguar.
+
+
+
+2. Bioimpressгo Тканей: bioimpressгo передовой метод который сочетает живые ячейки и biomateriais чтобы создать соткан функциональный. Это может быть обычно печатало соткано специфический jaguar, как мышцы и кости, в пределах искусственного fetal мешка, содейств более близкой атмосфере материнской uterus.
+
+
+
+3. Покрытие Biomimйticos: Покрытие biomimйticos могут быть применены в внутренних поверхностях искусственного fetal мешка для mimetizar свойств биологических тканей jaguar, содейств благоприятным взаимодействиям между fetal ячейками и окружающей атмосферой.
+
+**Изыскание Родных Качеств изготовления
+
+1. Biofilmes Пещеры: естественный Biofilmes найденный при закусочных может собираться и включают к искусственному fetal мешку jaguar, обеспечения autochthonous биологического substratum чтобы содействовать благотворным взаимодействиям между microorganisms и fetal ячейками.
+
+
+
+2. Воздушные корни Леса: воздушные Корни деревьев найденных при плотных лесах смогут использованы в structuring искусственного fetal мешка, поставляя трехмерную атмосферу похожую на найденную в естественной атмосфере jaguar.
+
+---
+
+**Вывод**
+
+Создание атмосферы biomimйtico чтобы моделировать идеальные условия fetal развитие jaguar просьб подход multidisciplinar интегрировать genфmica знание, biomateriais и техника тканей. Применение специфического biomateriais найденный при закусочных, реках и плотных лесах, совместно с передовыми методами техники тканей и изыскания родных качеств изготовления тех атмосфер, он/она предлагает важные возможности двигаться вперед в понимании и содействии fetal развитие которого угрожало species.
+
+---
+
+Этот отчет служит в качестве первоначального анализа и этого просит исследование более углубил оценить жизнеспособность и эффективность предложенных подходов.
+
+Подписанный,
+
+[прозвище: Lester Smith Kardevsky CEO DARKSTRIKE ПОДХОДЯЩЕЕ ЗЛО CORP]
+[DARKSTRIKE ПОДХОДЯЩЕЕ ЗЛО CORP]
+
+Чтобы создать код шрифта фокусированного в bioinformбtica для калибрования genoma унции (Panthera унция *) с другим развитием данные, мы можем использовать язык Python и некоторые специфические библиотеки bioinformбtica, как Biopython и pandas. Следующий пример шрифта который может быть использован для того намерения:
+
+```python
+Импорт pandas pd
+Из Bio импорт Seqio
+Из Bio.Seq импорт Seq
+Из Bio.Seqrecord импорт Seqrecord
+Из Bio.Импорт алфавита generic_dna
+
+# Чтение данных развития унции
+desenvolvimento_onca=pd.read_csv ('dados_desenvolvimento_onca.csv')
+
+# Чтение genoma унции
+С открытым ('genoma_onca.fasta', 'r)' fasta_file:
+    Записи=список (Seqio.Разберите (fasta_file, 'fasta'))
+    genoma_onca=записи [0].seq
+
+# Калибрование genoma с развитием данные
+Это идет индекс, ряд в desenvolvimento_onca.iterrows():
+    gene=ряд ['gene']
+    regiao_inicial=ряд ['regiao_inicial']
+    regiao_final=ряд ['regiao_final']
+    sequencia_gene=genoma_onca [regiao_inicial -1: regiao_final]
+    # Чтобы завершить некоторое здесь дифференциальное и интегральное исчисление или добавочная обработка, если необходимо
+    # Например, расположение в линию с другим genomas или сохранением анализ
+
+    # Чтобы создать регистрацию Seqrecord для gene
+    seq_record=Seqrecord (sequencia_gene, id=gene, description='gene {} унции .'Формат (gene))
+    # Чтобы спасти gene в качестве файла FASTA
+    Seqio.Напишите (seq_record, 'gene_ {}.fasta .'Формат (gene), 'fasta')
+
+Отпечаток (заключал "Калибрование. Файлы FASTA для каждого gene были спасены.")
+```
+
+В этом примере, шрифт допускает что данные развития унции хранятся в файле названном CSV 'dados_desenvolvimento_onca.csv', с колоннами для имени gene, первоначальной области и окончательной области в genoma. Кроме того, он/она полагает ее что genoma унции имеется в распоряжении в названном файле FASTA 'genoma_onca.fasta .'
+
+Шрифт читает развитие данные и genoma унции, и вскоре впоследствии, это gages genoma с основой в той информации. Для каждый gene, он извлекает последовательность соответствующую genoma, этого выполняет любой хотел (например, расположение в линию с другим genomas или сохранением анализ) добавочный анализ и sage последовательность в качестве файла отдельного FASTA для каждого gene.
+
+Это важное подчеркнуть то это упрощенный пример и что реальная обработка может изменяться в зависимости от специфических подробностей развития данные и genoma унции, а также добавочных исследований который могут быть нужно. Кроме того, этот шрифт может быть расширен или видоизменил соответственно нужно помочь к специфическим требованиям bioinformбtica проекта в предмете.
+
+
+
+___________________________________________________________________###__________________________
+
+
+https://renan21002200.wixsite.com/renansantoscyberseo
+
+https://counterintelligencecoursescybernetics.wordpress.com/
+
+https://cyberwarfarecounterintelligence.wordpress.com/
+
+https://cyberaptsecurity.wordpress.com/
+
+https://darkstrikaptevilcorpcounterintelligency.wordpress.com/
+
+https://safehousessecurity.wordpress.com/
