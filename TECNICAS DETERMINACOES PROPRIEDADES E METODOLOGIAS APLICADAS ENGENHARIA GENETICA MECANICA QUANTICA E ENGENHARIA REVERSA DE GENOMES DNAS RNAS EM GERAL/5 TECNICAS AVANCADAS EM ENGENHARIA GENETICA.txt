@@ -1,0 +1,62 @@
+1. **Edição de Genes CRISPR-Cas9:**
+   - Essa técnica revolucionou a engenharia genética ao permitir a edição precisa do DNA. O sistema CRISPR-Cas9 utiliza uma enzima (Cas9) para cortar o DNA em locais específicos, onde então sequências de DNA desejadas podem ser inseridas, removidas ou modificadas. Isso permite a correção de mutações prejudiciais ou a introdução de características desejadas em animais.
+
+2. **Engenharia Genética Baseada em RNA Interferente (RNAi):**
+   - O RNAi é uma técnica que interfere na expressão gênica, inibindo a tradução de um mRNA específico. Isso pode ser usado para silenciar genes indesejados ou modificar a expressão de genes para alcançar certas características em animais. A introdução de moléculas de RNAi pode regular seletivamente a expressão gênica em diferentes tecidos ou momentos do desenvolvimento.
+
+3. **Mutagênese Dirigida por Oligonucleotídeo (ODM):**
+   - A ODM é uma técnica que envolve a introdução de oligonucleotídeos de DNA sintéticos em uma célula, os quais se emparelham com o DNA alvo e induzem mudanças específicas na sequência de nucleotídeos. Isso pode ser usado para criar mutações pontuais precisas, introduzindo ou removendo pequenos trechos de DNA. Essa abordagem é útil para estudar a função de genes específicos ou para corrigir mutações patogênicas.
+
+4. **Edição de Base de RNA (REPAIR):**
+   - Esta técnica permite a edição de bases individuais no RNA, proporcionando um nível de precisão e flexibilidade semelhante à edição de genes baseada em CRISPR para DNA. Com a REPAIR, é possível corrigir mutações em RNA que causam doenças genéticas ou modificar sequências de RNA para influenciar a expressão gênica.
+
+5. **Engenharia Genética de Dupla-Hélice Quebrada (DBE):**
+   - A DBE é uma técnica que induz a quebra controlada de ambas as fitas de DNA em um local específico, permitindo a inserção de material genético estrangeiro com alta precisão. Esse método pode ser usado para inserir grandes fragmentos de DNA, como genes completos ou conjuntos de genes, em locais específicos do genoma animal. Isso pode ser útil para introduzir características complexas ou novas funcionalidades em animais.
+
+   ___________________________________________________________________###__________________________
+
+   1. Редактирование генов **CRISPR-Cas9:**.
+   - Эта техника произвела революцию в генной инженерии, позволив точно редактировать ДНК. Система CRISPR-Cas9 использует фермент (Cas9) для разрезания ДНК в определенных местах, куда затем могут быть вставлены, удалены или изменены желаемые последовательности ДНК. Это позволяет исправлять вредные мутации или вводить желаемые характеристики в организм животных.
+
+2. **Генетическая инженерия на основе интерферирующей РНК (RNAi):**.
+   - РНКи - это метод, который вмешивается в экспрессию генов путем ингибирования трансляции определенной мРНК. Это может быть использовано для глушения нежелательных генов или изменения экспрессии генов для достижения определенных характеристик у животных. Введение молекул РНКи может избирательно регулировать экспрессию генов в разных тканях или в разные периоды развития.
+
+3. **Олигонуклеотид-направленный мутагенез (ОНМ):**.
+   - ODM - это метод, при котором в клетку вводятся синтетические олигонуклеотиды ДНК, которые соединяются с целевой ДНК и вызывают специфические изменения в последовательности нуклеотидов. Это может быть использовано для создания точных точечных мутаций путем введения или удаления коротких участков ДНК. Такой подход полезен для изучения функций конкретных генов или исправления патогенных мутаций.
+
+4. **Редактирование оснований РНК (REPAIR):**.
+   - Этот метод позволяет редактировать отдельные основания в РНК, обеспечивая уровень точности и гибкости, аналогичный редактированию генов в ДНК с помощью CRISPR. С помощью REPAIR можно исправлять мутации в РНК, вызывающие генетические заболевания, или изменять последовательности РНК для влияния на экспрессию генов.
+
+5. **Генетическая инженерия с разрушенной двойной спиралью (DBE):**.
+   - DBE - это метод, который вызывает контролируемый разрыв обеих нитей ДНК в определенном месте, позволяя вставлять чужеродный генетический материал с высокой точностью. Этот метод можно использовать для вставки больших фрагментов ДНК, таких как полные гены или наборы генов, в определенные места генома животных. Это может быть полезно для придания животным сложных характеристик или новых функциональных возможностей.
+
+   ___________________________________________________________________###__________________________
+
+   1. Gene editing **CRISPR-Cas9:**.
+   - This technique has revolutionized genetic engineering by allowing precise editing of DNA. The CRISPR-Cas9 system uses an enzyme (Cas9) to cut DNA at specific locations where desired DNA sequences can then be inserted, deleted, or altered. This allows harmful mutations to be corrected or desired characteristics to be introduced into animals.
+
+2. **Genetic engineering based on interfering RNA (RNAi):**.
+   - RNAi is a technique that interferes with gene expression by inhibiting translation of a particular mRNA. This can be used to silence unwanted genes or alter gene expression to achieve certain characteristics in animals. The administration of RNAi molecules can selectively regulate gene expression in different tissues or at different periods of development.
+
+3. **Oligonucleotide-directed mutagenesis (ODM):**.
+   - ODM is a technique in which synthetic DNA oligonucleotides are introduced into a cell, which combine with target DNA and cause specific changes in the nucleotide sequence. This can be used to create precise point mutations by introducing or deleting short stretches of DNA. This approach is useful for studying the function of specific genes or correcting pathogenic mutations.
+
+4. **RNA base editing (REPAIR):**.
+   - This method allows editing of individual bases in RNA, providing a level of precision and flexibility similar to gene editing in DNA using CRISPR. REPAIR can be used to correct mutations in RNA that cause genetic diseases or to alter RNA sequences to influence gene expression.
+
+5. **Disrupted double helix genetic engineering (DBE):**.
+   - DBE is a technique that causes a controlled break in both strands of DNA at a specific location, allowing foreign genetic material to be inserted with high precision. This method can be used to insert large fragments of DNA, such as complete genes or sets of genes, into specific locations in the animal genome. This can be useful for giving animals complex characteristics or new functionalities.
+
+   ___________________________________________________________________###__________________________
+
+https://renan21002200.wixsite.com/renansantoscyberseo
+
+https://counterintelligencecoursescybernetics.wordpress.com/
+
+https://cyberwarfarecounterintelligence.wordpress.com/
+
+https://cyberaptsecurity.wordpress.com/
+
+https://darkstrikaptevilcorpcounterintelligency.wordpress.com/
+
+https://safehousessecurity.wordpress.com/
