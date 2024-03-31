@@ -1,0 +1,53 @@
+LOCUS       PP496529                 446 bp    DNA     linear   BCT 27-MAR-2024
+DEFINITION  Trueperella abortisuis strain DG22-01209-14 16S ribosomal RNA gene,
+            partial sequence; 16S-23S ribosomal RNA intergenic spacer, complete
+            sequence; and 23S ribosomal RNA gene, partial sequence.
+ACCESSION   PP496529
+VERSION     PP496529.1
+KEYWORDS    .
+SOURCE      Trueperella abortisuis
+  ORGANISM  Trueperella abortisuis
+            Bacteria; Actinomycetota; Actinomycetes; Actinomycetales;
+            Actinomycetaceae; Trueperella.
+REFERENCE   1  (bases 1 to 446)
+  AUTHORS   Ningrum,S.G., Kreitlow,A., Laemmler,C., Prenger-Berninghoff,E.,
+            Ewers,C., Foster,G., Ploetz,M. and Abdulmawjood,A.
+  TITLE     Phenotypic and genotypic characterization of a Trueperella
+            abortisuis strain isolated from the vagina of a cat
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 446)
+  AUTHORS   Ningrum,S.G., Kreitlow,A., Laemmler,C., Prenger-Berninghoff,E.,
+            Ewers,C., Foster,G., Ploetz,M. and Abdulmawjood,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2024) Institute of Food Quality and Food Safety,
+            University of Veterinary Medicine Hannover, Bischofsholer Damm 15,
+            Hannover, Lower Saxony 30173, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..446
+                     /organism="Trueperella abortisuis"
+                     /mol_type="genomic DNA"
+                     /strain="DG22-01209-14"
+                     /isolation_source="vagina"
+                     /host="Felis catus"
+                     /db_xref="taxon:445930"
+                     /country="Germany"
+                     /PCR_primers="fwd_name: ISR- F, fwd_seq:
+                     ggtaccttagatgtttcagttc, rev_name: ISR-R, rev_seq:
+                     ttgtacacaccgcccgtca"
+     misc_RNA        <1..>446
+                     /note="contains 16S ribosomal RNA, 16S-23S ribosomal RNA
+                     intergenic spacer, and 23S ribosomal RNA"
+ORIGIN      
+        1 gggggggagc ggtcgaaggt gggattggcg attgggacga agtcgtaaca aggtagccgt
+       61 accggaaggt gcggctggat cacctccttt ctaaggagcc tcatgtgtgc ctgtgactgt
+      121 tgtggttgtg ggtgtttgtg tgtggggttt ttagtggttc gcaatgtggg ggctggcatg
+      181 ctgttggggt gtggggtaac acctgtgctg cctgcgcgtg ggctctgttg tggggtttgt
+      241 gtgtggtgtt ggtgtggtgg ttgagaattg tatagtggat gcgagcatct tttggttttt
+      301 gtaagtgttt aagggcgttc ggtggatgcc ttggtacacg gagccgatga aggacgttgt
+      361 agcctgcgat aagcctcggg gagttggcat acgagctgtg atccgagggt gtccgaatgg
+      421 gggaacctgc ctggagttgt ttctgg
+//
+
