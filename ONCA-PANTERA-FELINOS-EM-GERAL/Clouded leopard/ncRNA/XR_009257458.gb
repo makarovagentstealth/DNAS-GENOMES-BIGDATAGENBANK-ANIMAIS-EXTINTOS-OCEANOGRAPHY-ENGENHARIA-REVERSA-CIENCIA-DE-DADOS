@@ -1,0 +1,123 @@
+LOCUS       XR_009257458            3854 bp    RNA     linear   MAM 08-AUG-2023
+DEFINITION  PREDICTED: Neofelis nebulosa uncharacterized LOC131503505
+            (LOC131503505), transcript variant X2, ncRNA.
+ACCESSION   XR_009257458
+VERSION     XR_009257458.1
+DBLINK      BioProject: PRJNA998453
+KEYWORDS    RefSeq.
+SOURCE      Neofelis nebulosa (Clouded leopard)
+  ORGANISM  Neofelis nebulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Pantherinae; Neofelis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_080801) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI RefSeq
+            Annotation Status           :: Full annotation
+            Annotation Name             :: GCF_028018385.1-RS_2023_07
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 10.1
+            Annotation Method           :: Gnomon; cmsearch; tRNAscan-SE
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            Annotation Date             :: 07/31/2023
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3854
+                     /organism="Neofelis nebulosa"
+                     /mol_type="transcribed RNA"
+                     /isolate="mNeoNeb1"
+                     /db_xref="taxon:61452"
+                     /chromosome="Y"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /country="USA: Smithsonian National Zoological Park"
+                     /lat_lon="38.97061706 N 77.05021107 W"
+                     /collection_date="2019-11-13"
+                     /collected_by="SCBI Veterinary Staff, Klaus Koepfli"
+     gene            1..3854
+                     /gene="LOC131503505"
+                     /note="uncharacterized LOC131503505; Derived by automated
+                     computational analysis using gene prediction method:
+                     Gnomon."
+                     /db_xref="GeneID:131503505"
+     ncRNA           1..3854
+                     /ncRNA_class="lncRNA"
+                     /gene="LOC131503505"
+                     /product="uncharacterized LOC131503505, transcript variant
+                     X2"
+                     /db_xref="GeneID:131503505"
+ORIGIN      
+        1 tgtgagtttg agtcgctcat tggatgaggt cttttcccac tttgtgtgag catgaaccct
+       61 gctccaggtt agcatgagcc tgctctgtgt tgagtaccag cccttgagct acactctggg
+      121 tgacttcaaa cctgctctgg gtgaactcaa gccctgatct ggggtgagct tcagtcttgc
+      181 tctgaatgat ctctagctca ctcctggtaa acacaagccc tgctctatgt gatcttgtgc
+      241 cctgctgcat gtgacctcgt gccctgctcc tagtgacctc gagccccgct ctgggtgaac
+      301 acaagttctg ctgcaggtaa gttcctgtcc tgttctcagt gaccttgtgc cctgctctag
+      361 gtgacctcaa gcccagctcc aggtgagctg aagccctatt ccaaataagc tgaagtccca
+      421 tatctaatgg gcctgtgtcc taattcaggt gagctcataa cctgctctgt atgagctcag
+      481 actccattaa ggtaagtttc tgctctactc cggttgagtc atgcccctct gcttgtgagc
+      541 tcatgcccta cattgtgtga ccttgtgccc tgctctgggt caccgataaa cctgctctgg
+      601 atgacttcta tcctggtcca gttaaacctg tgacctgctc agggtgagca caaacccctc
+      661 tcagggtaag cacaagccca gttatgggtg ggcatgagcc ccacactgag ttagagtggg
+      721 cctacaaaag ctaaatatga gccctggttc aggtgacctc atgccctggt atgtttgaac
+      781 tcatgtcctt tgattcattg tcttttgagc tcaagtcccg ctcccagtga gcatgagtcc
+      841 tgctcctggt gggcttgagt cctgctctgg atgagctcaa tccccattct gagtgagctc
+      901 cagcagccct ctggctaaat acagaccttg ctccgtgtga cctcatacca ccctccgggt
+      961 gaccatgagc tccacttagg gttgagttca tgctccactc caggtgagca ccagccccgc
+     1021 tcggggtgtc aacatgctcc actctgggca acctcaagcc cctttttgct taagcatgga
+     1081 cacttttccc agtgacctgg agcccctctc cagttgagca caagaccttc tctggtgagt
+     1141 ttgtcttgct ccaggtgacc tcaggccctg ctcagatttt gcaccagtcc cacttctcgt
+     1201 gagcacgtgc cctcttctgt gtgaccttgt gccccactca gcagaacctc cagaccaata
+     1261 ctgggtgatc tctagctcag ctcctaatga ataatctcgt gtcccactgc agttgagcaa
+     1321 agcctagttt ggggtgacct tgaatcccac tcccagtgaa cttgttttta gctccacatg
+     1381 acctcgtgct tcactccagg cgcactcgag ccatgcttga gttcagccca tgttctgggt
+     1441 gaccttgtgc ctgtctccaa ttgaaatgag ccctgcttga tatgccttct tccctgctct
+     1501 gggtgacctt gacccccaca cctggtgagc tcatgccaca ctttgggtgt actgaagcct
+     1561 ttctcagagt gagaggtagc catccccagg tgagtgtgag cccagttttg atgagcctgt
+     1621 gttatgctct gggtgacctc atgccaggtg atctcaagac tctgtcttgg tgagcttgtc
+     1681 tcactctcta tgtggcctca gaccccactc gggttttgcc ccagccccac ttctgctgag
+     1741 cacgtgtccc tttctctgtg agcgagggcc actgcccagg tgagctccag gtgccctgca
+     1801 agtgagcttg agtcttcttc acattaccaa gggcccctct ctttatgatt ctgtgctctg
+     1861 ctgcagggac cttcaagggg cgcttgctgt gacctcgtgt ccctctgcag gtagctcaag
+     1921 ttatgttcca agggacatgg agtcctgctc ctgtgagacc ttgccccaca ccagggggaa
+     1981 ctcaagtcct gatccacctg gctggtgccc cacttctagt gaatgcctct gaagctctgg
+     2041 gtgcctagaa gcctgactcc ctgtgacctg gtgacccagc ccagaggagc acaaactctg
+     2101 ctgagggtga gctcgagctc ctctccagtt gagaagaagc ctttgtctca ttgaggacac
+     2161 ggcttgatcc tgatgacctc gagtcccagt ccagttgtgc aggtgacctt gagacccaca
+     2221 tctgattggg gggagtcgat gagcccccct ccggtgtcat ctgagctggt gacctgcttc
+     2281 atgacctcgt gacctgcccc aagtgacctc cagcccggct ccagcgtcca gagtcgtgtt
+     2341 ctgggttagc cccagccccc atgcggttga gcaccagctc tgctgcctgt gacttcctgc
+     2401 ttagctccag gtgacatcga gccccactca ggtgggttgg tgcctagctc catgtgagct
+     2461 cgaggctcgc tccacttgac ctcaagacct gttccgtatg agctcaagtc ctgctccagg
+     2521 tggccagagc ccagctccta gagggctcag gccctgattc aagtgtacac agttgtgagt
+     2581 gtggccttga gatccgcccc tgctgtggtg acttcgagcc gtgcttcagt gacctggtgc
+     2641 tccattctgt gtgagctagt gccacactct aggcaaactg aagccctgac cagggcaaac
+     2701 acgggccctc cctccctgtt gttttgtgct ccactcccag tgcacgaagc ctcactccct
+     2761 gtgacctggt gaccctccct gtaggaactc cagtcatgcc aagggtgacc tggagcccct
+     2821 ctccagtgga gcatgagatt tgctttgggt gagcacgtgc cctgatctgg gtgacctcga
+     2881 gtcctgctcc aagtgaactc acaccctctc tccatgactg cgagtcctgc ttcagatcac
+     2941 ctgaagaccc gctcactaga acctccagac cctcactggg tgaactcatg cctgctcctt
+     3001 ggggacctcc tgacccactc agccgtacag cctgacccac tgctgaccct gagaggagct
+     3061 gacaatgaat ttgggtcctg ctccaacgga cctggaacct cgctcccagt gagctcctgg
+     3121 aaccctctgg gtgacctcaa tccctgctca gggtgacctt gacccgtctc caggtggagc
+     3181 aggaaccccg ctccataaga ttcggtgctc cactctgggt gacctggatc cccactccag
+     3241 gtgagctgga tttactcttt gtggtaatcc ccgccctttc tgcccaagct catgccttgc
+     3301 tccccgtgac ctagagcgcc tcacctgcac agttcccttc ccagctgacg tggaccagga
+     3361 cctttactgg ggcatctcca gtcatgcact aggtaaactc ctgccctgct ctaggtgacc
+     3421 ttctagctca ggacatgggg aactggtgtt cctctggact ttggcaagac ttttccaggt
+     3481 gacctcgaat ccacctcctg gtgacctcga gccttgctcc tgaggacctc aaactgctgc
+     3541 tcgtgatgtg ttctgcgctg tgggacctag atccccactc agcttagtcc tgaaactggt
+     3601 tttgagtgaa cttctaccca gttctggttg gcctcggacc cagctctttg tgaccttgtg
+     3661 ccacccttcc agtgtattaa ggcctttgga ttaaggttat tccaaacaac aggtggcctg
+     3721 agccccactt ctgtgacttc ctgtgccact ttgggagacc tcatggtcta ttctatgtga
+     3781 cctcaaggca caacccatga tcaagtggga tttattccaa ggaaacaagg atggtttgac
+     3841 attcacaaat caaa
+//
+
